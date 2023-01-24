@@ -1,4 +1,6 @@
 # Diabetes_visualisations
+UI:
+3 pages: landing page (index.html), chart page and map page.
 
 Project 3
 
