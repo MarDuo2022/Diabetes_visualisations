@@ -13,7 +13,7 @@
 // rl.on("close", () => {
 //   console.log(data);
 // });
-var data = require("../code/savedata_records.json");
+var data = require("../savedata_records.json");
 console.log(data.collection.length);
 
 // git pages url
