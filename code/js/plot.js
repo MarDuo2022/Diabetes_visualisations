@@ -1,7 +1,7 @@
 async function fetchData() {
   const content = [] //contains objects of data
 
-  const response = await fetch("../data/Yearly_death_counts.csv")
+  const response = await fetch("./data/Yearly_death_counts.csv")
     .then(response => response.text())
     .then(data => {
       const rows = data.split('\r\n');
