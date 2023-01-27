@@ -26,6 +26,14 @@ def maps():
     print("Server received request for 'maps' page...")
     return render_template('maps.html')
 
+# 4. other charts route
+
+
+@app.route("/other")
+def charts():
+    print("Server received request for 'other charts' page...")
+    return render_template('bri_charts.html')
+
 
 if __name__ == '__main__':
     app.debug = True
