@@ -13,5 +13,14 @@ https://www.cdc.gov/obesity/data/prevalence-maps.html
 https://www.kaggle.com/datasets/khushishahh/fast-food-restaurants-across-us
 
 ## Description of repository structure
+All codes are in the folder 'code'. 
+-  Database extraction into csv files and loading into PostgreSQL database: Death_counts_Chronic_indicators_PostgreSQL.ipynb
+
+- codes from Bri and Solomon????
+
+
+## Deployment of site
 Landing page is deployed via https://marduo2022.github.io/Diabetes_visualisations/
-Interact with this page by clicking the appropriate link to visit the Map and Chart page.
+
+Interact with this page by clicking the appropriate link to visit the Map and Chart page. 
+
