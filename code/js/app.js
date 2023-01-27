@@ -6,9 +6,105 @@
 // const data = JSON.parse("../../data/savedata_records.json");
 //
 const path = "/code/savedata_records.json";
-
 const dataPromise = d3.json(path);
-
+const usStateAbb = [
+  "AK",
+  "AL",
+  "AR",
+  "AZ",
+  "CA",
+  "CO",
+  "CT",
+  "DC",
+  "DE",
+  "FL",
+  "GA",
+  "GU",
+  "HI",
+  "IA",
+  "ID",
+  "IL",
+  "IN",
+  "KS",
+  "KY",
+  "LA",
+  "MA",
+  "MD",
+  "ME",
+  "MI",
+  "MN",
+  "MO",
+  "MS",
+  "MT",
+  "NC",
+  "ND",
+  "NE",
+  "NH",
+  "NJ",
+  "NM",
+  "NV",
+  "NY",
+  "OH",
+  "OK",
+  "OR",
+  "PA",
+  "PR",
+  "RI",
+  "SC",
+  "SD",
+  "TN",
+  "TX",
+  "US",
+  "UT",
+  "VA",
+  "VI",
+  "VT",
+  "WA",
+  "WI",
+  "WV",
+  "WY",
+];
 console.log("Data Promise: ", dataPromise);
-
 console.log("test 2");
+// first function: data promise to get list of state values
+var years = ["2014", "2015", "2016", "2017", "2018", "2019"];
+var abbrs = [];
+var states = [];
+var plotValues = [];
+dataPromise.then(function (data) {
+  var stateObject = data.filter(function (row) {
+    return row.locationabbr === "AK";
+  });
+  console.log(stateObject);
+  extract(stateObject);
+});
+// define function 'extract' to extract data from stateObject
+function extract(input) {
+  var stateDataX = input.map(function (item) {
+    return item.yearstart;
+  });
+  var stateDataY = input.map((item) => parseInt(item.datavalue));
+
+  // first attempt at plotting with charts.js
+  // setup
+  var plotData = {
+    labels: stateDataX,
+    datasets: [
+      {
+        label: "Alaska",
+        data: stateDataY,
+        fill: false,
+      },
+    ],
+  };
+
+  // config
+  //   var config = {
+  //     type: "line",
+  //     data: plotData,
+  //   };
+  new Chart(document.getElementById("myChart"), {
+    type: "line",
+    data: plotData,
+  });
+}
