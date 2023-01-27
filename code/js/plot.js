@@ -4,8 +4,6 @@ async function fetchData() {
   const response = await fetch("./data/Yearly_death_counts.csv")
     .then(response => response.text())
     .then(data => {
-      console.log(data)
-
       const rows = data.split('\n');
   
       const [headerString, ...mainRows] = rows;
@@ -43,8 +41,6 @@ async function fetchData() {
 }
 
 fetchData().then(data => {
-  console.log(data)
-
   const ctx = document.getElementById('myChart').getContext('2d');
   const [labelsObj, ...datasetObjs] = data;
   const chartData = {
