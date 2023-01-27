@@ -6,7 +6,7 @@ async function fetchData() {
     .then(data => {
       console.log(data)
 
-      const rows = data.split('\r\n');
+      const rows = data.split('\n');
   
       const [headerString, ...mainRows] = rows;
     
