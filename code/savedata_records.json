@@ -1,0 +1,2972 @@
+[
+  {
+    "yearstart": "2014",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "AK",
+    "locationdesc": "Alaska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.1"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.3"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "AL",
+    "locationdesc": "Alabama",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.6"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.3"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.5"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "AR",
+    "locationdesc": "Arkansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "AZ",
+    "locationdesc": "Arizona",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "CA",
+    "locationdesc": "California",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.4"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "CO",
+    "locationdesc": "Colorado",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.6"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.5"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "CT",
+    "locationdesc": "Connecticut",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "DC",
+    "locationdesc": "District of Columbia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "DE",
+    "locationdesc": "Delaware",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.9"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "FL",
+    "locationdesc": "Florida",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.7"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "GA",
+    "locationdesc": "Georgia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "15.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "15.4"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "GU",
+    "locationdesc": "Guam",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "HI",
+    "locationdesc": "Hawaii",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.3"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "IA",
+    "locationdesc": "Iowa",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.4"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "ID",
+    "locationdesc": "Idaho",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.1"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "IL",
+    "locationdesc": "Illinois",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.0"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.3"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "IN",
+    "locationdesc": "Indiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.5"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "KS",
+    "locationdesc": "Kansas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.9"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.1"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "KY",
+    "locationdesc": "Kentucky",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.7"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.9"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "LA",
+    "locationdesc": "Louisiana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MA",
+    "locationdesc": "Massachusetts",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MD",
+    "locationdesc": "Maryland",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "ME",
+    "locationdesc": "Maine",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.7"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MI",
+    "locationdesc": "Michigan",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MN",
+    "locationdesc": "Minnesota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.8"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MO",
+    "locationdesc": "Missouri",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.0"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.0"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MS",
+    "locationdesc": "Mississippi",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.9"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "MT",
+    "locationdesc": "Montana",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.1"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NC",
+    "locationdesc": "North Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.6"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "ND",
+    "locationdesc": "North Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.9"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NE",
+    "locationdesc": "Nebraska",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.2"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NH",
+    "locationdesc": "New Hampshire",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.0"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.7"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NJ",
+    "locationdesc": "New Jersey",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.5"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.5"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.3"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NM",
+    "locationdesc": "New Mexico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.0"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NV",
+    "locationdesc": "Nevada",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.0"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "NY",
+    "locationdesc": "New York",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.4"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "OH",
+    "locationdesc": "Ohio",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.1"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.8"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.4"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "OK",
+    "locationdesc": "Oklahoma",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.0"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "OR",
+    "locationdesc": "Oregon",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.5"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.7"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "PA",
+    "locationdesc": "Pennsylvania",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.2"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "14.3"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "14.8"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "15.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "PR",
+    "locationdesc": "Puerto Rico",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "14.5"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "RI",
+    "locationdesc": "Rhode Island",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.8"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "SC",
+    "locationdesc": "South Carolina",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.6"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.9"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.0"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.3"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "SD",
+    "locationdesc": "South Dakota",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.5"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.3"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "TN",
+    "locationdesc": "Tennessee",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "10.9"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.2"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.0"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.7"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "TX",
+    "locationdesc": "Texas",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.9"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.5"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "US",
+    "locationdesc": "United States",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.5"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.8"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "UT",
+    "locationdesc": "Utah",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.3"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.1"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "VA",
+    "locationdesc": "Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.9"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "11.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "VI",
+    "locationdesc": "Virgin Islands",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": null
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.1"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.4"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "VT",
+    "locationdesc": "Vermont",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.4"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.7"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.4"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "9.0"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "WA",
+    "locationdesc": "Washington",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.5"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.0"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.5"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.4"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "WI",
+    "locationdesc": "Wisconsin",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.5"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.2"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.8"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "12.9"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.6"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "WV",
+    "locationdesc": "West Virginia",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "13.1"
+  },
+  {
+    "yearstart": "2014",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.8"
+  },
+  {
+    "yearstart": "2015",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2016",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.6"
+  },
+  {
+    "yearstart": "2017",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "8.2"
+  },
+  {
+    "yearstart": "2018",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "7.9"
+  },
+  {
+    "yearstart": "2019",
+    "locationabbr": "WY",
+    "locationdesc": "Wyoming",
+    "question": "Prevalence of diagnosed diabetes among adults aged >= 18 years",
+    "datavalueunit": "%",
+    "datavaluetype": "Age-adjusted Prevalence",
+    "datavalue": "6.8"
+  }
+]
