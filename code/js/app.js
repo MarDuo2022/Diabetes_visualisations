@@ -75,27 +75,28 @@ var plotValues = [];
 // functionto get all state data in plottable format
 function extractAll(input) {
   // for (a in input) {
-  for (z in usStateAbb) {
-    let thisState = data.filter(function (row) {
-      return row.locationabbr === usStateAbb[z];
+  for (let i = 0; i < usStateAbb.length; i++) {
+    let thisState = input.filter(function (row) {
+      return row.locationabbr === usStateAbb[i];
     });
     let thisX = thisState.map(function (row) {
       return row.yearstart;
     });
-    let thisY = thisState.map((item) => parseInt(item.datavalue));
+    let thisY = thisState.map((item) => parseFloat(item.datavalue));
     let thisLabelA = thisState.map((item) => item.locationdesc);
     let thisLabel = thisLabelA[0];
 
     // setup
     let plotDataS = {
-      labels: thisX,
-      datasets: [
-        {
-          label: thisLabel,
-          data: thisY,
-          fill: false,
-        },
-      ],
+      // labels: thisX,
+      // datasets: [
+      // {
+      label: thisLabel,
+      data: thisY,
+      fill: false,
+      tension: 0.1,
+      // },
+      // ],
     };
     plotValues.push(plotDataS);
   }
@@ -105,31 +106,36 @@ dataPromise.then(function (data) {
   extractAll(data);
 });
 
-// initial data promise then call extract function to plot first chart
+// initial data promise then call extract function to plot first chart using 'US' for state
 dataPromise.then(function (data) {
   var stateObject = data.filter(function (row) {
-    return row.locationabbr === "US";
+    return row.locationabbr == "US";
   });
   console.log(stateObject);
   extract(stateObject);
 });
 // define function 'extract' to extract data from stateObject
 function extract(input) {
+  let stateLabelA = input.map((item) => item.locationdesc);
+  let stateLabel = stateLabelA[0];
   var stateDataX = input.map(function (item) {
     return item.yearstart;
   });
-  var stateDataY = input.map((item) => parseInt(item.datavalue));
+  var stateDataY = input.map((item) => parseFloat(item.datavalue));
+  console.log(stateDataY);
   // first attempt at plotting with charts.js
   // setup
   var plotData = {
     labels: stateDataX,
-    datasets: [
-      {
-        label: "Alaska",
-        data: stateDataY,
-        fill: false,
-      },
-    ],
+    datasets: plotValues,
+    // [
+    //   {
+    //     label: stateLabel,
+    //     data: stateDataY,
+    //     fill: false,
+    //     tension: 0.1,
+    //   },
+    // ],
   };
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
