@@ -71,9 +71,44 @@ var years = ["2014", "2015", "2016", "2017", "2018", "2019"];
 var abbrs = [];
 var states = [];
 var plotValues = [];
+
+// functionto get all state data in plottable format
+function extractAll(input) {
+  // for (a in input) {
+  for (z in usStateAbb) {
+    let thisState = data.filter(function (row) {
+      return row.locationabbr === usStateAbb[z];
+    });
+    let thisX = thisState.map(function (row) {
+      return row.yearstart;
+    });
+    let thisY = thisState.map((item) => parseInt(item.datavalue));
+    let thisLabelA = thisState.map((item) => item.locationdesc);
+    let thisLabel = thisLabelA[0];
+
+    // setup
+    let plotDataS = {
+      labels: thisX,
+      datasets: [
+        {
+          label: thisLabel,
+          data: thisY,
+          fill: false,
+        },
+      ],
+    };
+    plotValues.push(plotDataS);
+  }
+  console.log(plotValues);
+}
+dataPromise.then(function (data) {
+  extractAll(data);
+});
+
+// initial data promise then call extract function to plot first chart
 dataPromise.then(function (data) {
   var stateObject = data.filter(function (row) {
-    return row.locationabbr === "AK";
+    return row.locationabbr === "US";
   });
   console.log(stateObject);
   extract(stateObject);
@@ -84,7 +119,6 @@ function extract(input) {
     return item.yearstart;
   });
   var stateDataY = input.map((item) => parseInt(item.datavalue));
-
   // first attempt at plotting with charts.js
   // setup
   var plotData = {
@@ -97,13 +131,7 @@ function extract(input) {
       },
     ],
   };
-
-  // config
-  //   var config = {
-  //     type: "line",
-  //     data: plotData,
-  //   };
-  new Chart(document.getElementById("myChart"), {
+  new Chart(document.getElementById("myChartSt"), {
     type: "line",
     data: plotData,
   });

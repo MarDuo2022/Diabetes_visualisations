@@ -32,7 +32,7 @@ def maps():
 @app.route("/other")
 def charts():
     print("Server received request for 'other charts' page...")
-    return render_template('bri_charts.html')
+    return render_template('other.html')
 
 
 if __name__ == '__main__':
