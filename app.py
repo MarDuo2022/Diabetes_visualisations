@@ -30,7 +30,7 @@ def maps():
 
 
 @app.route("/other")
-def charts():
+def other():
     print("Server received request for 'other charts' page...")
     return render_template('other.html')
 
