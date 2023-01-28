@@ -1,3 +1,32 @@
+// import { Colors } from "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js";
+
+// Chart.register(Colors);
+
+var colour_list = [
+  "#00876c",
+  "#3e9c73",
+  "#64b17a",
+  "#89c581",
+  "#afd989",
+  "#d6ec93",
+  "#ffff9f",
+  "#fae275",
+  "#f7c44e",
+  "#f5a429",
+  "#f38004",
+  "#f05600",
+  "#eb0202",
+];
+// #0b048f
+// #6936a7
+// #a269c2
+// #d3a0df
+// #ffdaff
+// #ffaddf
+// #ff7caa
+// #ff4764
+// #eb1509
+
 // var data = require("code/savedata_records.json");
 // console.log(data.collection.length);
 
@@ -74,7 +103,6 @@ var plotValues = [];
 
 // functionto get all state data in plottable format
 function extractAll(input) {
-  // for (a in input) {
   for (let i = 0; i < usStateAbb.length; i++) {
     let thisState = input.filter(function (row) {
       return row.locationabbr === usStateAbb[i];
@@ -85,18 +113,12 @@ function extractAll(input) {
     let thisY = thisState.map((item) => parseFloat(item.datavalue));
     let thisLabelA = thisState.map((item) => item.locationdesc);
     let thisLabel = thisLabelA[0];
-
-    // setup
+    // set up dataset object
     let plotDataS = {
-      // labels: thisX,
-      // datasets: [
-      // {
       label: thisLabel,
       data: thisY,
       fill: false,
       tension: 0.1,
-      // },
-      // ],
     };
     plotValues.push(plotDataS);
   }
@@ -128,6 +150,7 @@ function extract(input) {
   var plotData = {
     labels: stateDataX,
     datasets: plotValues,
+
     // [
     //   {
     //     label: stateLabel,
@@ -140,5 +163,15 @@ function extract(input) {
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
     data: plotData,
+    options: {
+      plugins: {
+        legend: {
+          display: true,
+          labels: {
+            color: "rgb(255,99,132)",
+          },
+        },
+      },
+    },
   });
 }
