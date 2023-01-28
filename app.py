@@ -29,10 +29,10 @@ def maps():
 # 4. other charts route
 
 
-@app.route("/other")
-def other():
+@app.route("/bri_charts")
+def bri_charts():
     print("Server received request for 'other charts' page...")
-    return render_template('other.html')
+    return render_template('bri_charts.html')
 
 
 if __name__ == '__main__':
