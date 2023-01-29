@@ -157,7 +157,7 @@ function extractAll(input) {
 // define function 'extract' to extract data from stateObject
 function extract(input) {
   let stateLabelA = input.map((item) => item.locationdesc);
-  let stateLabel = stateLabelA[0];
+  var stateLabel = stateLabelA[0];
   var stateDataX = input.map(function (item) {
     return item.yearstart;
   });
@@ -168,14 +168,16 @@ function extract(input) {
   var plotData = {
     labels: stateDataX,
     // datasets: plotValues,
-    datasets: {
-      label: stateLabel,
-      data: stateDataY,
-      fill: false,
-      // borderColor: colourList[i],
-      pointRadius: 5,
-      tension: 0.1,
-    },
+    datasets: [
+      {
+        label: stateLabel,
+        data: stateDataY,
+        fill: false,
+        // borderColor: colourList[i],
+        pointRadius: 5,
+        tension: 0.1,
+      },
+    ],
   };
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
@@ -192,6 +194,12 @@ function extract(input) {
     },
   });
 }
+// define function optionChanged. Select state data then invoke extract
+function optionChanged(chosen) {
+  let newState = plotValues.filter((item) => item.label == chosen);
+  let chosenState = newState[0];
+  extract(chosenState);
+}
 // __________________________________________________________________________________
 // invoke extractAll
 dataPromise.then(function (data) {
@@ -200,6 +208,12 @@ dataPromise.then(function (data) {
 //initial data promise then call extract function to plot first chart using 'US' for state
 // invoke extract
 dataPromise.then(function (data) {
+  let drop = d3.select("#selDataset");
+  for (let i = 0; i < stateNames.length; i++) {
+    let thisOp = drop.append("option");
+    console.log(stateNames[i]);
+    thisOp.text(stateNames[i]);
+  }
   var stateObject = data.filter(function (row) {
     return row.locationabbr == "US";
   });
