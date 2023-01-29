@@ -1,4 +1,4 @@
-async function fetchData() {
+async function fetchYearlyDeathData() {
   const content = [] //contains objects of data
 
   const response = await fetch("./data/Yearly_death_counts.csv")
@@ -40,7 +40,7 @@ async function fetchData() {
   return content;
 }
 
-fetchData().then(data => {
+fetchYearlyDeathData().then(data => {
   const ctx = document.getElementById('myChart').getContext('2d');
   const [labelsObj, ...datasetObjs] = data;
   const chartData = {
@@ -74,11 +74,46 @@ fetchData().then(data => {
 
 })
 
+// Use local database (cannot be deployed from GitHub)
+fetch("http://localhost:5000/chronicI")
+.then(res => res.json())
+.then(resultList => {
+  const xData = [];
+  const yData = [];
 
+  console.log(resultList)
 
+  resultList.forEach(record => {
+    xData.push(record.locationdesc);
+    yData.push(record.datavalue);
+  })
 
   
-  
+  const ctx = document.getElementById('myChart2').getContext('2d');
+  const myChart2 = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: xData,
+      datasets: [{
+        label: "",
+        backgroundColor: "#FF9D76",
+        data: yData
+      }]
+    },
+    options: {
+      legend: {
+        display: false
+      },
+      title: {
+        display: true,
+        text: 'Prevalence of diabetes across different states in 2014'
+      }
+    }
+  });
+});
+
+
+// TEMPLATE FOR BAR CHARTS
   // const ctx = document.getElementById('myChart').getContext('2d');
   // const myChart = new Chart(ctx, {
   //   type: 'bar',
