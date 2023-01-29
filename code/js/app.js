@@ -125,8 +125,7 @@ console.log("Data Promise: ", dataPromise);
 console.log("test 2");
 // first function: data promise to get list of state values
 var years = ["2014", "2015", "2016", "2017", "2018", "2019"];
-var abbrs = [];
-var states = [];
+var stateNames = [];
 var plotValues = [];
 
 // functionto get all state data in plottable format
@@ -141,12 +140,14 @@ function extractAll(input) {
     let thisY = thisState.map((item) => parseFloat(item.datavalue));
     let thisLabelA = thisState.map((item) => item.locationdesc);
     let thisLabel = thisLabelA[0];
+    stateNames.push(thisLabel);
     // set up dataset object
     let plotDataS = {
       label: thisLabel,
       data: thisY,
       fill: false,
       borderColor: colourList[i],
+      pointRadius: 5,
       tension: 0.1,
     };
     plotValues.push(plotDataS);
@@ -157,7 +158,7 @@ dataPromise.then(function (data) {
   extractAll(data);
 });
 
-// initial data promise then call extract function to plot first chart using 'US' for state
+//initial data promise then call extract function to plot first chart using 'US' for state
 dataPromise.then(function (data) {
   var stateObject = data.filter(function (row) {
     return row.locationabbr == "US";
@@ -179,15 +180,6 @@ function extract(input) {
   var plotData = {
     labels: stateDataX,
     datasets: plotValues,
-
-    // [
-    //   {
-    //     label: stateLabel,
-    //     data: stateDataY,
-    //     fill: false,
-    //     tension: 0.1,
-    //   },
-    // ],
   };
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
@@ -196,10 +188,10 @@ function extract(input) {
       plugins: {
         legend: {
           display: true,
-          labels: {
-            color: "rgb(255,99,132)",
-          },
         },
+      },
+      tooltips: {
+        enabled: true,
       },
     },
   });
