@@ -1,8 +1,4 @@
-// import { Colors } from "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js";
-
-// Chart.register(Colors);
-
-var colour_list = [
+var colourList = [
   "#00876c",
   "#3e9c73",
   "#64b17a",
@@ -16,17 +12,49 @@ var colour_list = [
   "#f38004",
   "#f05600",
   "#eb0202",
+  "#0b048f",
+  "#6936a7",
+  "#a269c2",
+  "#d3a0df",
+  "#ffdaff",
+  "#ffaddf",
+  "#ff7caa",
+  "#ff4764",
+  "#eb1509",
+  "#399283",
+  "#47f0a3",
+  "#214d4e",
+  "#65e6f9",
+  "#1c4bb4",
+  "#82a0ca",
+  "#91207b",
+  "#c875ac",
+  "#e855d0",
+  "#5a3e4f",
+  "#8184fb",
+  "#8601ee",
+  "#fcc2fb",
+  "#4f8522",
+  "#a7d479",
+  "#683c00",
+  "#f8cca6",
+  "#d11f0b",
+  "#fe8f06",
+  "#ab7950",
+  "#f8d147",
+  "#ff4d82",
+  "#7fee3f",
+  "#ca952d",
+  "#41f9f9",
+  "#7fcc38",
+  "#448c98",
+  "#901582",
+  "#7fffd4",
+  "#8a2be2",
+  "#7fff00",
+  "#008b8b",
+  "#b22222",
 ];
-// #0b048f
-// #6936a7
-// #a269c2
-// #d3a0df
-// #ffdaff
-// #ffaddf
-// #ff7caa
-// #ff4764
-// #eb1509
-
 // var data = require("code/savedata_records.json");
 // console.log(data.collection.length);
 
@@ -34,7 +62,7 @@ var colour_list = [
 // import data from "../code/savedata_records.json" assert { type: "JSON" };
 // const data = JSON.parse("../../data/savedata_records.json");
 //
-const path = "/code/savedata_records.json";
+const path = "/code/Jupyter_notebook/savedata_records.json";
 const dataPromise = d3.json(path);
 const usStateAbb = [
   "AK",
@@ -118,6 +146,7 @@ function extractAll(input) {
       label: thisLabel,
       data: thisY,
       fill: false,
+      borderColor: colourList[i],
       tension: 0.1,
     };
     plotValues.push(plotDataS);
