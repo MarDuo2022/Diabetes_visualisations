@@ -128,7 +128,7 @@ var years = ["2014", "2015", "2016", "2017", "2018", "2019"];
 var stateNames = [];
 var plotValues = [];
 
-// functionto get all state data in plottable format
+// define function extractAll to get all state data in plottable format
 function extractAll(input) {
   for (let i = 0; i < usStateAbb.length; i++) {
     let thisState = input.filter(function (row) {
@@ -154,18 +154,6 @@ function extractAll(input) {
   }
   console.log(plotValues);
 }
-dataPromise.then(function (data) {
-  extractAll(data);
-});
-
-//initial data promise then call extract function to plot first chart using 'US' for state
-dataPromise.then(function (data) {
-  var stateObject = data.filter(function (row) {
-    return row.locationabbr == "US";
-  });
-  console.log(stateObject);
-  extract(stateObject);
-});
 // define function 'extract' to extract data from stateObject
 function extract(input) {
   let stateLabelA = input.map((item) => item.locationdesc);
@@ -175,11 +163,19 @@ function extract(input) {
   });
   var stateDataY = input.map((item) => parseFloat(item.datavalue));
   console.log(stateDataY);
-  // first attempt at plotting with charts.js
+
   // setup
   var plotData = {
     labels: stateDataX,
-    datasets: plotValues,
+    // datasets: plotValues,
+    datasets: {
+      label: stateLabel,
+      data: stateDataY,
+      fill: false,
+      // borderColor: colourList[i],
+      pointRadius: 5,
+      tension: 0.1,
+    },
   };
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
@@ -196,3 +192,17 @@ function extract(input) {
     },
   });
 }
+// __________________________________________________________________________________
+// invoke extractAll
+dataPromise.then(function (data) {
+  extractAll(data);
+});
+//initial data promise then call extract function to plot first chart using 'US' for state
+// invoke extract
+dataPromise.then(function (data) {
+  var stateObject = data.filter(function (row) {
+    return row.locationabbr == "US";
+  });
+  console.log(stateObject);
+  extract(stateObject);
+});
