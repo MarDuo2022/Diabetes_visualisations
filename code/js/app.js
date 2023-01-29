@@ -156,8 +156,9 @@ function extractAll(input) {
 }
 // define function 'extract' to extract data from stateObject
 function extract(input) {
+  // let stateLabelA = input.label;
   let stateLabelA = input.map((item) => item.locationdesc);
-  let stateLabel = stateLabelA[0];
+  var stateLabel = stateLabelA[0];
   var stateDataX = input.map(function (item) {
     return item.yearstart;
   });
@@ -168,14 +169,64 @@ function extract(input) {
   var plotData = {
     labels: stateDataX,
     // datasets: plotValues,
-    datasets: {
-      label: stateLabel,
-      data: stateDataY,
-      fill: false,
-      // borderColor: colourList[i],
-      pointRadius: 5,
-      tension: 0.1,
+    datasets: [
+      {
+        label: stateLabel,
+        data: stateDataY,
+        fill: false,
+        // borderColor: colourList[i],
+        pointRadius: 5,
+        tension: 0.1,
+      },
+    ],
+  };
+  new Chart(document.getElementById("myChartSt"), {
+    type: "line",
+    data: plotData,
+    options: {
+      plugins: {
+        legend: {
+          display: true,
+        },
+      },
+      tooltips: {
+        enabled: true,
+      },
     },
+  });
+}
+// define function optionChanged. Select state data then invoke extract
+function optionChanged(i) {
+  console.log(stateNames[i]);
+  let chosen = stateNames[i];
+  console.log(chosen);
+  console.log(plotValues);
+  let newState = plotValues.filter((item) => item.label == chosen);
+  console.log(newState);
+  var chosenState = newState[0];
+  var newColour = colourList[i];
+  console.log(chosenState);
+  extractNew(chosenState, newColour);
+}
+// define function 'extractNew' to plot selected state data
+function extractNew(input, newColour) {
+  let newLabel = input.label;
+  var newDataY = input.data;
+  console.log(newDataY);
+
+  // set up
+  var plotData = {
+    labels: years,
+    datasets: [
+      {
+        label: newLabel,
+        data: newDataY,
+        fill: false,
+        borderColor: newColour,
+        pointRadius: 5,
+        tension: 0.1,
+      },
+    ],
   };
   new Chart(document.getElementById("myChartSt"), {
     type: "line",
@@ -193,13 +244,20 @@ function extract(input) {
   });
 }
 // __________________________________________________________________________________
+// ACTIONS
 // invoke extractAll
 dataPromise.then(function (data) {
   extractAll(data);
 });
-//initial data promise then call extract function to plot first chart using 'US' for state
-// invoke extract
+//create drop-down values then call 'extract' function to plot first chart using 'US' for state
 dataPromise.then(function (data) {
+  let drop = d3.select("#selDataset");
+  for (let i = 0; i < stateNames.length; i++) {
+    let thisOp = drop.append("option");
+    console.log(stateNames[i]);
+    thisOp.text(stateNames[i]);
+    thisOp.attr("value", i);
+  }
   var stateObject = data.filter(function (row) {
     return row.locationabbr == "US";
   });
