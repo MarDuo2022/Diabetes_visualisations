@@ -1,6 +1,6 @@
 # Diabetes_visualisations Project
 
-This project aims visualise diabetes as death indicator and associated factors over time/across different states in the US. It uses data from the Centers for Disease Control and Prevention (CDC) and kaggle to create interactive maps and charts that allow for easy comparison and analysis of diabetes rates. Charts.js javascript library is used to visualise the bar chart showing yearly death counts for top causes of death in the US.
+This project aims to visualise diabetes as death indicator and associated factors over time/across different states in the US. It uses data from the Centers for Disease Control and Prevention (CDC) and kaggle to create interactive maps and charts that allow for easy comparison and analysis of diabetes rates. Charts.js javascript library is used to visualise the bar chart showing yearly death counts for top causes of death in the US.
 
 ## Deployment of site
 Landing page is deployed via https://marduo2022.github.io/Diabetes_visualisations/
