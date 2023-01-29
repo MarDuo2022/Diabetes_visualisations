@@ -67,7 +67,7 @@ Distribution of diabetes is associated with factors such as distribution of fast
 ## Authors
 
 * **Brianna O'Connor** - [https://github.com/Borruu/](link)
-* **Solomon**  - [https://github.com/Solo1492](link)
+* **Solomon Dias**  - [https://github.com/Solo1492](link)
 * **Marisa Duong** - [https://github.com/MarDuo2022](link)
 
 
