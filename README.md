@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to have the following software installed on your machine:
 - Python 3.x
 - Jupyter Notebook
-- Pandas, Numpy, Plotly, and other libraries used in the project (these will be listed in the `requirements.txt` file)
+- Pandas, Numpy, Folium, charts.js and other libraries used in the project (these will be listed in the `requirements.txt` file)
 
 ### Installation
 
@@ -61,8 +61,10 @@ Distribution of diabetes is associated with factors such as distribution of fast
 - Jupyter Notebook
 - Pandas
 - Numpy
-- Plotly
-- etc
+- HTML
+- Folium
+- charts.js
+- Leaflet
 
 ## Authors
 
