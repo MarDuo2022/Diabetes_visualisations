@@ -206,7 +206,7 @@ var colourList = [
 // import data from "../code/savedata_records.json" assert { type: "JSON" };
 // const data = JSON.parse("../../data/savedata_records.json");
 //
-const path = "./code/Jupyter_notebook/savedata_records.json";
+const path = "./code/js/savedata_records.json";
 const dataPromise = d3.json(path);
 const usStateAbb = [
   "AK",
