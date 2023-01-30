@@ -184,10 +184,21 @@ function extract(input) {
     type: "line",
     data: plotData,
     options: {
+      responsive: true,
       plugins: {
         legend: {
           display: true,
         },
+      },
+      scales: {
+        yAxes: [
+          {
+            ticks: {
+              min: 5,
+              max: 18,
+            },
+          },
+        ],
       },
       tooltips: {
         enabled: true,
@@ -232,10 +243,21 @@ function extractNew(input, newColour) {
     type: "line",
     data: plotData,
     options: {
+      responsive: true,
       plugins: {
         legend: {
           display: true,
         },
+      },
+      scales: {
+        yAxes: [
+          {
+            ticks: {
+              min: 0,
+              max: 20,
+            },
+          },
+        ],
       },
       tooltips: {
         enabled: true,
@@ -249,6 +271,9 @@ function extractNew(input, newColour) {
 dataPromise.then(function (data) {
   extractAll(data);
 });
+// Chart.defaults.scales.linear.min = 0;
+// Chart.defaults.scales.linear.max = 20;
+
 //create drop-down values then call 'extract' function to plot first chart using 'US' for state
 dataPromise.then(function (data) {
   let drop = d3.select("#selDataset");
