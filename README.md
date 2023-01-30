@@ -77,13 +77,15 @@ Distribution of diabetes is associated with factors such as distribution of fast
 
     - Code for plotting charts is in plot.js inside 'js' folder.
 
-    - Code for visualising maps is .............<SOLOMON to add>...........
+    - Code for visualising maps is in Merging_Data_maps.ipynb and Restarants_heatmap.ipynb
 
 - `data` folder contains csv files, including original csv files downloaded from data sources (such as the raw `1. Monthly_Counts_of_Deaths_by_Select_Causes__2014-2019.csv`) and the cleaned csv (such as the `Yearly_death_counts.csv`).
 
 - `database` folder contains schema for diabetes PostgreSQL database, which is to be created locally.
 
 - the landing page `index.html` is to be deployed directly from [https://marduo2022.github.io/Diabetes_visualisations/], and there are links on this page to go to the `charts.html` and `maps.html` pages.
+
+- the maps are in the `Population_vs_Obesity.html` and `Restaurants_vs_Diabeties.html` on the homepage.
 
 
 
