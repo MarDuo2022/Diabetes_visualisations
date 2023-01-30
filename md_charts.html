@@ -11,12 +11,6 @@
     <title>Charts</title>
 
     <!-- Boostrap Stylesheet -->
-    <!-- <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    /> -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen" />
     <link
       rel="stylesheet"
@@ -66,10 +60,7 @@
                 aria-labelledby="navbarDropdownMenuLink"
               >
                 <a class="dropdown-item" href="./charts.html">Chart</a>
-                <a class="dropdown-item" href="./Population_vs_Obesity.html">Population vs Obesity map</a>
-                <a class="dropdown-item" href="./Restaurants_vs_Diabeties_per_1000_map.html">Restaurants vs Diabeties map</a>
-        
-            
+                <a class="dropdown-item" href="./maps.html">Map</a>
               </div>
             </li>
           </ul>
@@ -85,27 +76,13 @@
         </div>
       </div>
       </br>
-      <!-- <hr /> -->
-      <div class="row">
-        <div class="col-12">
-          <h4>Death counts by year for top causes of death</h4>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12">
-          <canvas id="myChart" style="width: 100%; max-width: 800px"></canvas>
-          </br>
-      <!-- <canvas id="myChart2" style="width:100%;max-width:800px"></canvas> -->
-        </div>
-      </div>
-      
+      <!-- <hr /> -->     
       
       <div class="row">
         <div class="col-12">
           </br>
           <h4 id="diPrevH4">
-          Diabetes prevalence trend over the years 2014-2019
-          in different states
+          Diabetes prevalence comparison among different states
           </h4>
         </div>
       </div>
@@ -113,22 +90,18 @@
       <div class="row">
         <div class="col-md-2">
           <div class="well">
-            <h6>US States</h6>
+            <h6>Year</h6>
             <select id="selDataset" onchange="optionChanged(this.value)">
-              <option>select State</option>
+              <option>select Year</option>
             </select>
             <!-- onchange="optionChanged(this.value)" -->
           </div>
         </div>
-        <div class="col-md-6">
-          
-        </div>
-        <div class="col-md-2"><button id="showAll" type="button" class="btn btn-default" onclick="showAll()">show all</button></div>
         
       </div>
       <div class="row">
         <div clas="col-12">
-        <canvas id="myChartSt" style="width: 100%; max-width: 1000px"></canvas>
+        <canvas id="myChartYr" style="width: 100%; max-width: 1000px"></canvas>
         </div>
       </div>
       <div class="row">
@@ -139,18 +112,7 @@
 
     <!-- JS links for d3, bootstrap and our own js script -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    <script src="./code/js/plot.js"></script>
-
-    <!-- <script
-      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-      crossorigin="anonymous"
-    ></script> -->
-    <!-- <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
-      integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
-      crossorigin="anonymous"
-    ></script> -->
+    <script src="./code/js/mdplot.js"></script>
 
     <!-- Additional bootstrap -->
     <script
