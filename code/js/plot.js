@@ -298,6 +298,40 @@ function extractAll(input) {
   }
   console.log(plotValues);
 }
+// define function showAll
+function showAll() {
+  // setup
+  var allData = {
+    labels: years,
+    // datasets: plotValues,
+    datasets: plotValues,
+  };
+  new Chart(document.getElementById("myChartSt"), {
+    type: "line",
+    data: allData,
+    options: {
+      plugins: {
+        legend: {
+          display: true,
+        },
+      },
+      scales: {
+        yAxes: [
+          {
+            ticks: {
+              min: 5,
+              max: 18,
+            },
+          },
+        ],
+      },
+      tooltips: {
+        enabled: true,
+      },
+    },
+  });
+}
+
 // define function 'extract' to extract data from stateObject
 function extract(input) {
   // let stateLabelA = input.label;
