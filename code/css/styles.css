@@ -23,6 +23,9 @@
 .navbar {
   background-color: #a9d6e5;
 }
+img {
+  margin: 0 auto;
+}
 
 canvas {
   text-align: center;
